@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\InterviewTest\bin\Debug\InterviewTest.exe.config
+C:\Users\USER\source\repos\InterviewTest\bin\Debug\InterviewTest.exe
+C:\Users\USER\source\repos\InterviewTest\bin\Debug\InterviewTest.pdb
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.Properties.Resources.resources
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.exe
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.pdb
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.Login.resources
+C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.OtherActivity.resources
