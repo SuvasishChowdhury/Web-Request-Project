@@ -31,11 +31,7 @@ namespace InterviewTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //string loginAddress = "https://www.dating.com/users/login";
             string loginAddress = "https://www.dating.com/en/people";
-            //string loginAddress = "http://romo.beacontech.xyz";
-            //string loginAddress = "https://api.dating.com/users";
-            //string loginAddress = "https://api.dating.com/identity";
             NameValueCollection loginData = new NameValueCollection
             {
                   { "username", textBox1.Text },

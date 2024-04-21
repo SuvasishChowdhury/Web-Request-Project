@@ -9,3 +9,14 @@ C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.exe
 C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.pdb
 C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.Login.resources
 C:\Users\USER\source\repos\InterviewTest\obj\Debug\InterviewTest.OtherActivity.resources
+E:\Project\My Project\Web-Request-Project\bin\Debug\InterviewTest.exe.config
+E:\Project\My Project\Web-Request-Project\bin\Debug\InterviewTest.exe
+E:\Project\My Project\Web-Request-Project\bin\Debug\InterviewTest.pdb
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.csproj.AssemblyReference.cache
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.Login.resources
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.OtherActivity.resources
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.Properties.Resources.resources
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.csproj.GenerateResource.cache
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.csproj.CoreCompileInputs.cache
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.exe
+E:\Project\My Project\Web-Request-Project\obj\Debug\InterviewTest.pdb
